@@ -11,6 +11,6 @@ import org.testng.annotations.Test;
 public class TestXX {
     @Test
     public void testXX(){
-
+        System.out.println("XXX");
     }
 }
