@@ -11,6 +11,6 @@ import org.testng.annotations.Test;
 public class TestLemon {
     @Test
     public void testXX(){
-        System.out.println("XXX");
+        System.out.println("YYY");
     }
 }
